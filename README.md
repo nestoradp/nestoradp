@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nestor Ariel Delgado Pacheco @nestoradp
 - 👀 I’m interested in Software Developer JavaScript, Java, React, Angular, Spring Boot
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning MicroServicios, 
 - 💞️ I’m looking to collaborate on  software developer in RecatJS, Angular. Spring Boot
 - 📫 How to reach me:
 email: nestoradp2014@gmail.com
